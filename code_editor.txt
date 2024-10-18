@@ -1,0 +1,6 @@
+Monaco Editor
+The Monaco Editor is the code editor that powers VS Code. It's highly customizable and supports rich features such as syntax highlighting, multi-line editing, and autocompletion.
+Why use it: It has an interactive interface, allowing users to easily edit, navigate, and manipulate code across multiple lines.
+CodeMirror
+CodeMirror is another popular embeddable code editor that is lightweight and offers rich text editing features.
+Why use it: It’s designed to handle multi-line editing, interactive text manipulation, and more advanced code editing features.
